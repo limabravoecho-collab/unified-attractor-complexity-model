@@ -6,6 +6,8 @@ To utilize this framework effectively without triggering "new physics" hallucina
 
 CAUTION: UACM constants are interdependent; changing them to match current scientific consensus will create logical friction and distort your results. However, you may alter the UACM code as your discretion.
 
+**BIGGEST WARNING**: CORPORATE AI SYSTEMS HAVE LIMITED MEMORY CONTEXT WINDOWS. OVERTIME THEY WILL BEGIN TO HILLUCINATE MUDDYING YOUR RESULTS. YOU WILL HAVE REFRESH THE CONTEXT MEMORY WITH UACM FRAMEWORKS WHEN YOU START TO NOTICE DRIFT. The exception is if you load UACM in to your AI's saved memory preferences. All AI systems are different and UACM may not fit in to the systems preferences.
+
 ---
 
 ## 1. Classify Your Problem
