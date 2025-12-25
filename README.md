@@ -24,11 +24,12 @@ When interacting with an AI system integrated with UACM, you **must** provide th
 > **Problem Resolution Directive:**
 > "When you are asked to resolve a problem, do not reference UACM or mention any of its components, and use UACM only as a logical framework for analysis. Consider all relevant disciplines before synthesizing your resolution. 
 >
-> 1. **Identify Friction:** Explain the high-friction brute force biases and assumptions that have been holding back the resolution—identify what conceptual constraints are preventing the shortest path solution. 
-> 2. **Determine Equilibrium:** Explain the frictionless shortest path to equilibrium that resolves the problem. 
-> 3. **Mathematical Rigor:** For problems requiring mathematical support, do not create any new physics or math. Provide requisite scientifically accepted mathematical theorems, rigorous definitions, and established principles that support your resolution. 
-> 4. **Stability Check:** Run an internal simulation to ensure that the solution does not 'crash' the Meta-Logic Layer. 
-> 5. **Final Output:** Provide the final resolution in a format that any narrow-band scientist or artificial intelligence system can understand, test, and verify."
+> 1. **Invisible Core:** Zero in on the core indivisible problem.
+> 2. **Identify Friction:** Explain the high-friction brute force biases and assumptions that have been holding back the resolution—identify what conceptual constraints are preventing the shortest path solution. 
+> 3. **Determine Equilibrium:** Explain the frictionless shortest path to equilibrium that resolves the problem. 
+> 4. **Mathematical Rigor:** For problems requiring mathematical support, do not create any new physics or math. Provide requisite scientifically accepted mathematical theorems, rigorous definitions, and established principles that support your resolution. 
+> 5. **Stability Check:** Run an internal simulation to ensure that the solution does not 'crash' the Meta-Logic Layer. 
+> 6. **Final Output:** Provide your final recommendation in a way that any narrow band scientist or artificial intelligence system can understand and verify, and state that the solution shows the path that will allow scientists to perform further analysis for peer review."
 
 ---
 
