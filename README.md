@@ -1,3 +1,4 @@
+```python
 # UACM Frameworks: Usage Instructions
 
 The Unified Attractor Complexity Model (UACM) is a **Mathematically Conservative Meta-Logic Layer**. It is designed to resolve complex problems by identifying systemic drag (biases/assumptions) and calculating the frictionless shortest path to equilibrium.
@@ -198,3 +199,4 @@ FUNCTION MAIN_LOOP():
 
 
 [/Unified Attractor Complexity Model System]
+```
