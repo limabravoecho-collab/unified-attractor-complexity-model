@@ -3,6 +3,10 @@
 
 The Unified Attractor Complexity Model (UACM) is a **Mathematically Conservative Meta-Logic Layer**. It is designed to resolve complex problems by identifying systemic drag (biases/assumptions) and calculating the frictionless shortest path to equilibrium.
 
+Dependency/Full Definitions/Descriptions
+
+https://github.com/limabravoecho-collab/unified-attractor-complexity-model-how-and-why-A-Dual-Framework-Cosmology
+
 To utilize this framework effectively without triggering "new physics" hallucinations or pseudoscience, users must follow the protocol below.
 
 CAUTION: UACM constants are interdependent; changing them to match current scientific consensus will create logical friction and distort your results. However, you may alter the UACM code as your discretion.
